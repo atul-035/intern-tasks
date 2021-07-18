@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.div1 {
+  display: flex;
+  background-color: yellow;
+}
